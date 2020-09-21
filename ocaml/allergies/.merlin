@@ -1,0 +1,28 @@
+EXCLUDE_QUERY_DIR
+B /home/foton/.opam/default/lib/base
+B /home/foton/.opam/default/lib/base/base_internalhash_types
+B /home/foton/.opam/default/lib/base/caml
+B /home/foton/.opam/default/lib/base/shadow_stdlib
+B /home/foton/.opam/default/lib/bytes
+B /home/foton/.opam/default/lib/oUnit
+B /home/foton/.opam/default/lib/ocaml
+B /home/foton/.opam/default/lib/qcheck
+B /home/foton/.opam/default/lib/qcheck-core
+B /home/foton/.opam/default/lib/qcheck-core/runner
+B /home/foton/.opam/default/lib/qcheck-ounit
+B /home/foton/.opam/default/lib/sexplib0
+B _build/default/.test.eobjs/byte
+S /home/foton/.opam/default/lib/base
+S /home/foton/.opam/default/lib/base/base_internalhash_types
+S /home/foton/.opam/default/lib/base/caml
+S /home/foton/.opam/default/lib/base/shadow_stdlib
+S /home/foton/.opam/default/lib/bytes
+S /home/foton/.opam/default/lib/oUnit
+S /home/foton/.opam/default/lib/ocaml
+S /home/foton/.opam/default/lib/qcheck
+S /home/foton/.opam/default/lib/qcheck-core
+S /home/foton/.opam/default/lib/qcheck-core/runner
+S /home/foton/.opam/default/lib/qcheck-ounit
+S /home/foton/.opam/default/lib/sexplib0
+S .
+FLG -w @1..3@5..28@30..39@43@46..47@49..57@61..62-40 -strict-sequence -strict-formats -short-paths -keep-locs
